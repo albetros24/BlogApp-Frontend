@@ -1,0 +1,8 @@
+.blog{
+    display: flex;
+    flex-direction:column;
+    margin-top:80px;
+    justify-content: center;
+    align-items: center;
+    width:100% !important
+}
